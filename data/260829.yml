@@ -1,0 +1,70 @@
+about:
+  description: Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
+  license: MIT
+  homepage: https://agentsview.io
+  head: 51e5a34
+  archived: false
+  latestVersion: v0.41.1
+  collectedAt: 2026-08-29T07:27:28Z
+timeline:
+  created: 2026-02-19
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-18
+popularity:
+  star: 5372
+  watcher: 40
+  fork: 616
+  release: 77
+  contributor: 138
+  pullRequest: 242
+  issue: 382
+language:
+  Go: 27145949
+  TypeScript: 2364332
+  Svelte: 1113992
+  Rust: 170435
+  Shell: 72702
+  Python: 40494
+  Makefile: 28399
+  PowerShell: 17755
+  JavaScript: 14663
+  CSS: 11392
+  HTML: 9931
+  Go Template: 4989
+  C: 4255
+  Dockerfile: 2329
+  HCL: 1415
+totalLine: 31003032
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 139
+    openPR: 26
+    closedIssue: 29
+    openIssue: 26
+    commit: 155
+  last90d:
+    since: 2026-05-31
+    release: 27
+    mergedPR: 647
+    openPR: 27
+    closedIssue: 157
+    openIssue: 52
+    commit: 645
+  last180d:
+    since: 2026-03-02
+    release: 62
+    mergedPR: 883
+    openPR: 27
+    closedIssue: 284
+    openIssue: 72
+    commit: 885
+  last360d:
+    since: 2025-09-03
+    release: 77
+    mergedPR: 927
+    openPR: 27
+    closedIssue: 310
+    openIssue: 72
+    commit: 1125
