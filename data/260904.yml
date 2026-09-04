@@ -4,10 +4,10 @@ about:
     Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
   license: MIT
   homepage: https://agentsview.io
-  head: 126e07a
+  head: ec884fb
   archived: false
   latestVersion: v0.42.0
-  collectedAt: 2026-09-04T20:09:08Z
+  collectedAt: 2026-09-04T20:31:45Z
 timeline:
   created: 2026-02-19
   lastCommit: 2026-09-04
@@ -21,94 +21,94 @@ popularity:
   pullRequest: 1213
   issue: 411
 language:
-  Go: 27956975
-  TypeScript: 2392556
-  Svelte: 1117294
+  Go: 27957086
+  TypeScript: 2361189
+  Svelte: 1115111
   Rust: 189093
   Shell: 72748
   Python: 40494
   Makefile: 28465
   PowerShell: 17755
-  JavaScript: 14663
-  CSS: 11392
-  HTML: 9931
+  CSS: 11388
+  HTML: 9953
   Go Template: 5766
+  JavaScript: 5081
   C: 4255
   Dockerfile: 3171
   HCL: 1415
-totalBytes: 31865973
+totalBytes: 31822970
 recent:
   last30d:
     since: 2026-08-05
     release: 3
-    mergedPR: 163
-    openPR: 18
-    closedIssue: 48
-    openIssue: 32
-    commit: 167
+    mergedPR: 164
+    openPR: 17
+    closedIssue: 49
+    openIssue: 31
+    commit: 0
   last60d:
     since: 2026-07-06
     release: 13
-    mergedPR: 388
-    openPR: 24
-    closedIssue: 114
-    openIssue: 47
-    commit: 378
+    mergedPR: 389
+    openPR: 23
+    closedIssue: 115
+    openIssue: 46
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 26
-    mergedPR: 679
-    openPR: 24
-    closedIssue: 174
-    openIssue: 59
-    commit: 678
+    mergedPR: 680
+    openPR: 23
+    closedIssue: 175
+    openIssue: 58
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 62
-    mergedPR: 906
-    openPR: 24
-    closedIssue: 296
-    openIssue: 79
-    commit: 902
+    mergedPR: 907
+    openPR: 23
+    closedIssue: 297
+    openIssue: 78
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 78
-    mergedPR: 972
-    openPR: 24
-    closedIssue: 332
-    openIssue: 79
-    commit: 1170
+    mergedPR: 973
+    openPR: 23
+    closedIssue: 333
+    openIssue: 78
+    commit: 0
   last720d:
     since: 2024-09-14
     release: 78
-    mergedPR: 972
-    openPR: 24
-    closedIssue: 332
-    openIssue: 79
-    commit: 1172
+    mergedPR: 973
+    openPR: 23
+    closedIssue: 333
+    openIssue: 78
+    commit: 1173
 total:
   release: 78
-  mergedPR: 972
-  openPR: 24
-  closedIssue: 332
-  openIssue: 79
-  commit: 1172
+  mergedPR: 973
+  openPR: 23
+  closedIssue: 333
+  openIssue: 78
+  commit: 1173
 ---
 path: /home/runner/.x-repo/github.com/kenn-io/agentsview
-collectedAt: 2026-09-04T20:09:16Z
+collectedAt: 2026-09-04T20:31:52Z
 loc:
   Go:
-    code: 742838
-    comments: 56855
+    code: 742839
+    comments: 56857
     blanks: 68005
     files: 1686
   TypeScript:
-    code: 75109
-    comments: 6010
-    blanks: 9220
-    files: 557
+    code: 69214
+    comments: 5973
+    blanks: 9759
+    files: 708
   Json:
-    code: 23042
+    code: 24425
     comments: 0
     blanks: 0
     files: 71
@@ -133,7 +133,7 @@ loc:
     blanks: 321
     files: 6
   Css:
-    code: 1133
+    code: 1138
     comments: 35
     blanks: 183
     files: 3
@@ -143,15 +143,10 @@ loc:
     blanks: 108
     files: 2
   Html:
-    code: 995
+    code: 998
     comments: 0
     blanks: 24
     files: 11
-  JavaScript:
-    code: 585
-    comments: 4
-    blanks: 41
-    files: 4
   Makefile:
     code: 434
     comments: 149
@@ -162,6 +157,11 @@ loc:
     comments: 56
     blanks: 73
     files: 2
+  JavaScript:
+    code: 356
+    comments: 1
+    blanks: 35
+    files: 4
   Toml:
     code: 150
     comments: 0
@@ -204,8 +204,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 18580
-    blanks: 4711
+    comments: 18596
+    blanks: 4714
     files: 71
   Text:
     code: 0
@@ -213,9 +213,9 @@ loc:
     blanks: 51
     files: 4
 total:
-  code: 894440
-  comments: 83530
-  blanks: 87520
-  files: 2575
+  code: 889643
+  comments: 83508
+  blanks: 88053
+  files: 2726
 ---
 
