@@ -4,7 +4,7 @@
 
 Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
 
-![agentsview](https://repo.x-cmd.io/agentsview.svg)
+![agentsview](https://repo.x-cmd.io/agentsview.svg?lang=zh)
 
 ## 安装
 
@@ -21,36 +21,53 @@ x install agentsview
 ## 发布
 
 - **最新版本**: `v0.42.0` (2026-09-01)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 13 个
-- **发布时间**: 2026-09-01T19:51:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [AgentsView_0.42.0_aarch64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_aarch64.AppImage) | 128.1 MiB | `other` |
+| [AgentsView_0.42.0_aarch64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_aarch64.dmg) | 43.1 MiB | `other` |
+| [AgentsView_0.42.0_amd64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_amd64.AppImage) | 132.8 MiB | `other` |
+| [agentsview_0.42.0_darwin_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_darwin_amd64.tar.gz) | 40.9 MiB | `native/darwin/x64` |
+| [agentsview_0.42.0_darwin_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_darwin_arm64.tar.gz) | 37.7 MiB | `native/darwin/arm64` |
+| [agentsview_0.42.0_linux_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_linux_amd64.tar.gz) | 43.6 MiB | `native/linux/x64` |
+| [agentsview_0.42.0_linux_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_linux_arm64.tar.gz) | 39.9 MiB | `native/linux/arm64` |
+| [agentsview_0.42.0_windows_amd64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_windows_amd64.zip) | 42.6 MiB | `native/win/x64` |
+| [agentsview_0.42.0_windows_arm64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_windows_arm64.zip) | 22.9 MiB | `native/win/arm64` |
+| [AgentsView_0.42.0_x64-setup.exe](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_x64-setup.exe) | 35.2 MiB | `other` |
+| [AgentsView_0.42.0_x64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_x64.dmg) | 47.4 MiB | `other` |
+| [SHA256SUMS](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/SHA256SUMS) | 618 B | `other` |
+| [SHA256SUMS-desktop](https://github.com/kenn-io/agentsview/releases/download/v0.42.0/SHA256SUMS-desktop) | 886 B | `other` |
 
 ## 流行度
 
-- **Star**: 5,841 · **Fork**: 655 · **开放 issue**: 429 · **贡献者**: 146
+- **Star**: 5,854 · **Fork**: 657 · **开放 issue**: 431 · **贡献者**: 146
 
 ## 累计统计
 
-- **发布数**: 78 · **已合并 PR**: 1011 · **开放 PR**: 35 · **已关闭 issue**: 349 · **开放 issue**: 80 · **提交数**: 1211
+- **发布数**: 78 · **已合并 PR**: 1019 · **开放 PR**: 28 · **已关闭 issue**: 354 · **开放 issue**: 77 · **提交数**: 1219
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 188 | 25 | 56 | 29 | 177 |
-| 90d | 2026-06-12 | 26 | 676 | 35 | 177 | 58 | 666 |
-| 360d | 2025-09-15 | 78 | 1011 | 35 | 349 | 80 | 1209 |
+| 30d | 2026-08-11 | 3 | 196 | 18 | 61 | 26 | 185 |
+| 90d | 2026-06-12 | 26 | 684 | 28 | 182 | 55 | 674 |
+| 360d | 2025-09-15 | 78 | 1019 | 28 | 354 | 77 | 1217 |
 
 ## 代码规模
 
-合计: **895,503** 行代码（覆盖前 5 种语言、共 **2683** 个文件）。
+合计: **901,547** 行代码（覆盖前 5 种语言、共 **2698** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 773,566 | 59,519 | 70,023 | 1784 |
-| TypeScript | 70,437 | 6,016 | 9,864 | 714 |
-| Json | 26,080 | 0 | 0 | 75 |
-| Svelte | 10,616 | 106 | 502 | 106 |
+| Go | 779,985 | 60,034 | 70,429 | 1798 |
+| TypeScript | 70,664 | 6,014 | 9,886 | 715 |
+| Json | 26,074 | 0 | 0 | 75 |
+| Svelte | 10,620 | 106 | 502 | 106 |
 | Rust | 4,887 | 137 | 393 | 4 |
 
 ## 改进这些数据
@@ -62,4 +79,4 @@ agentsview 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:11:17Z._
