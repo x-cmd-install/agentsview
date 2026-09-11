@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 45168489,
       "digest": "sha256:836ba9b6993d617d420f6683f738d5b58daf282fa6eb7634db79328e8b6afc65",
-      "download_count": 2504,
+      "download_count": 2640,
       "created_at": "2026-09-01T19:52:50Z",
       "updated_at": "2026-09-01T19:52:52Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_aarch64.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 139274744,
       "digest": "sha256:73f374d2b9982ce4b2211d920e4d7f4da9aa56e561428f404db0d85ed82c654b",
-      "download_count": 43,
+      "download_count": 45,
       "created_at": "2026-09-01T19:52:50Z",
       "updated_at": "2026-09-01T19:52:56Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_amd64.AppImage"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 42885338,
       "digest": "sha256:adf3ce82a10da289c75eaa07e8287f8f40d8d3e25cbcfcbb3b489401b0807957",
-      "download_count": 95,
+      "download_count": 106,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 39486758,
       "digest": "sha256:57f437a089f2f9d41c7335d7ce2a96f2ba95a11d4517678c6a6866a65390a3f3",
-      "download_count": 3043,
+      "download_count": 3254,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 45766737,
       "digest": "sha256:f2b8a278b60776ee8edb745cb5bb3da2b5de57271b49a69d94af4fa2bdb17414",
-      "download_count": 4438,
+      "download_count": 4781,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 41814064,
       "digest": "sha256:c148ef8c8bc9715e2c351c1bf726135479b5e778693f86ade69200e1ebcc09ca",
-      "download_count": 333,
+      "download_count": 347,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 44678429,
       "digest": "sha256:838c25f15bc6fe4028b0e5c71923a040503e52a6edf08b7a8405aeeecc8d6425",
-      "download_count": 1527,
+      "download_count": 1640,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_windows_amd64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 23990292,
       "digest": "sha256:51949a9ce6da51cc7f920e1491e8b766fd3725728046793fcca6802c6c1ffae6",
-      "download_count": 35,
+      "download_count": 38,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/agentsview_0.42.0_windows_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 36913436,
       "digest": "sha256:e16cbca09f95554943360f0f88c8ca65f7f347e0ca3a25476ca5ae66ffd25832",
-      "download_count": 168,
+      "download_count": 190,
       "created_at": "2026-09-01T19:52:50Z",
       "updated_at": "2026-09-01T19:52:52Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_x64-setup.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 49743515,
       "digest": "sha256:6c7257eb2bf142f7666619d8b8f3d4f89b40a6e2b2cda721317f5d405d4a7b31",
-      "download_count": 74,
+      "download_count": 78,
       "created_at": "2026-09-01T19:52:50Z",
       "updated_at": "2026-09-01T19:52:53Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/AgentsView_0.42.0_x64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 618,
       "digest": "sha256:22d1e2121744e370124fc8d8a937faa02d15e13666fa0fd65b24455ccbe028a4",
-      "download_count": 8901,
+      "download_count": 9565,
       "created_at": "2026-09-01T19:51:57Z",
       "updated_at": "2026-09-01T19:51:57Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/SHA256SUMS"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 886,
       "digest": "sha256:64dba761b88eb744012951eb72f6d3c1fec2644ac70c3c012b540c72d5ac02d9",
-      "download_count": 62,
+      "download_count": 66,
       "created_at": "2026-09-01T19:52:50Z",
       "updated_at": "2026-09-01T19:52:50Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.42.0/SHA256SUMS-desktop"
@@ -510,11 +510,11 @@
   "body": "- Add hosted raw session sync with device authentication, resumable uploads, durable checkpointing, and continuous watching.\n- Add one-shot capture with exact per-run usage reporting and durable raw artifact storage.\n- Ingest Cursor IDE, IcodeMate CLI, and Posit Assistant usage-event sessions.\n- Extend S3 discovery to all supported session providers.\n- Add Japanese UI localization.\n- Expand pricing coverage with OpenRouter and calculate historical costs using rates active at usage time.\n- Allow API clients to opt in to session source paths.\n- Add an opt-in recall setting for candidate findings.\n\n- Serve usage reports from an exact daily rollup cache for faster results at scale.\n- Skip unchanged OpenCode sessions inside changed containers.\n- Keep embedding builds progressing through rate limits and cap batches by token budget.\n- Make the analysis panel resizable.\n- Require explicit consent for shortened session uploads.\n- Improve remote sync target selection and skip offline HTTP hosts.\n- Harden container builds with distributed Debian mirror selection and automatic failover.\n- Align serialized JSON with Go 1.27 JSON v2 semantics.\n\n- Keep previously synced sessions browsable when their source files disappear.\n- Keep reconciliation moving past deferred sources and report full-resync finalization progress.\n- Discover OpenCode channel databases and recover legacy project working directories.\n- Recover Antigravity working directories and effort metadata, and group sessions across Git worktrees.\n- Support current Kiro CLI and Qoder CN layouts while handling incomplete Gemini and unsupported Trae sessions safely.\n- Show Devin session information in Usage.\n- Correct Claude one-hour cache-write pricing and Posit Assistant cache-write accounting.\n- Preserve legacy PostgreSQL timestamps with offsets.\n- Restore Grok agent-minute reporting and non-interactive session classification.\n- Keep daemon readiness waiting active throughout startup progress.\n- Keep virtual session rows aligned after sorting and route arrow keys to the active pane.\n- Stabilize Usage project filters and prevent password-manager prompts in the project picker.",
   "reactions": {
     "url": "https://api.github.com/repos/kenn-io/agentsview/releases/380781138/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
