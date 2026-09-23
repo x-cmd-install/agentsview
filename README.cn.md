@@ -4,7 +4,7 @@
 
 Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
 
-[![x-cmd/install — agentsview Code Quality Monitoring Repo Card](https://repo.x-cmd.io/agentsview.svg?lang=zh)](https://x-cmd.com/install/agentsview)
+[![x-cmd/install — agentsview Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/agentsview.svg?lang=zh)](https://x-cmd.com/install/agentsview)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install agentsview
 
 ## 代码洞察
 
-合计: **1,038,389** 行代码（覆盖前 5 种语言、共 **3114** 个文件）。
+合计: **1,040,535** 行代码（覆盖前 5 种语言、共 **3125** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 870,141 | 64,104 | 77,875 | 2033 |
-| TypeScript | 85,412 | 6,719 | 10,793 | 861 |
+| Go | 872,324 | 64,459 | 78,072 | 2044 |
+| TypeScript | 85,394 | 6,719 | 10,790 | 861 |
 | Json | 33,477 | 0 | 0 | 96 |
 | Yaml | 22,999 | 8 | 4 | 5 |
-| Svelte | 11,542 | 93 | 561 | 119 |
+| Svelte | 11,523 | 93 | 560 | 119 |
 
 ## 源代码
 
@@ -38,22 +38,22 @@ x install agentsview
 
 ## 流行度
 
-- **Star**: 5,961 · **Fork**: 679 · **开放 issue**: 475 · **贡献者**: 158
+- **Star**: 5,969 · **Fork**: 678 · **开放 issue**: 477 · **贡献者**: 158
 
 ## 累计统计
 
-- **发布数**: 80 · **已合并 PR**: 1152 · **开放 PR**: 37 · **已关闭 issue**: 383 · **开放 issue**: 92 · **提交数**: 1352
+- **发布数**: 80 · **已合并 PR**: 1157 · **开放 PR**: 50 · **已关闭 issue**: 383 · **开放 issue**: 94 · **提交数**: 1357
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 247 | 26 | 76 | 31 | 233 |
-| last60d | 2026-07-24 | 8 | 403 | 36 | 110 | 48 | 391 |
-| 90d | 2026-06-24 | 20 | 684 | 37 | 188 | 68 | 635 |
-| last180d | 2026-03-26 | 54 | 1033 | 37 | 305 | 89 | 1024 |
-| 360d | 2025-09-27 | 80 | 1152 | 37 | 383 | 92 | 1349 |
-| last720d | 2024-10-02 | 80 | 1152 | 37 | 383 | 92 | 1352 |
+| 30d | 2026-08-24 | 3 | 244 | 39 | 75 | 32 | 238 |
+| last60d | 2026-07-25 | 8 | 403 | 49 | 108 | 50 | 396 |
+| 90d | 2026-06-25 | 20 | 678 | 50 | 185 | 70 | 640 |
+| last180d | 2026-03-27 | 54 | 1036 | 50 | 305 | 91 | 1029 |
+| 360d | 2025-09-28 | 80 | 1157 | 50 | 383 | 94 | 1354 |
+| last720d | 2024-10-03 | 80 | 1157 | 50 | 383 | 94 | 1357 |
 
 ## Release 资产
 
@@ -117,4 +117,4 @@ agentsview 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:51:09Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:48:58Z._
