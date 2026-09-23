@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 46272512,
       "digest": "sha256:54683525e91e3d8f7f44c849b3da8a3f6d8fdcaeb521a8019b973f3cf996944b",
-      "download_count": 10,
+      "download_count": 29,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1358,
       "digest": "sha256:96207cceb266f81727c51b28dc9f5ea867db65af45791576ca9314ec494db6f6",
-      "download_count": 8,
+      "download_count": 16,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:57Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi.provenance.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 27385856,
       "digest": "sha256:a0b9ac6ff4d71eaab308f4f5a5c4aa9527183f1a9010e8c9ef3e451ec827596a",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 56751798,
       "digest": "sha256:08b0190a7a4c2f5834e4f95c0c1874097cacbf602032162676bc22ceab145627",
-      "download_count": 474,
+      "download_count": 1313,
       "created_at": "2026-09-21T13:55:58Z",
       "updated_at": "2026-09-21T13:56:01Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 631,
       "digest": "sha256:68598eb5adf0cc56bf968116af09ae75f951855de734a2e9e7e6b2ef1d380eaa",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:55:59Z",
       "updated_at": "2026-09-21T13:55:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg.macos-notarization.json"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1077,
       "digest": "sha256:bda0e2301e69e4bdfe750728188bff69a5fe3060a88377ad2977c9767952840f",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:55:59Z",
       "updated_at": "2026-09-21T13:55:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg.spdx.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 142440952,
       "digest": "sha256:502f3a6a7ee6d2dc767cf0e66bca0f3a94a556fe1a19c645332e4e407b5e63b2",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-09-21T13:55:59Z",
       "updated_at": "2026-09-21T13:56:09Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_amd64.AppImage"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 48251333,
       "digest": "sha256:95df0f56c039c394601d755301bbf523e56e0a8d2a648287b80cc203897f3fc2",
-      "download_count": 24,
+      "download_count": 51,
       "created_at": "2026-09-21T13:56:03Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1357,
       "digest": "sha256:e1dd5f93207fde99c1215806e0e7c64217faf4902993c7c1b32f3f7a6c86e412",
-      "download_count": 8,
+      "download_count": 17,
       "created_at": "2026-09-21T13:56:04Z",
       "updated_at": "2026-09-21T13:56:04Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz.provenance.json"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 43745351,
       "digest": "sha256:b21fdf093e631237e39d33ab80fe50fbc799e0bac11ac8ede8e0dc988ae12303",
-      "download_count": 264,
+      "download_count": 680,
       "created_at": "2026-09-21T13:56:04Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 1357,
       "digest": "sha256:cfab578bf0a6539ddd4a9698e7c00da204d596c1f78149856b635dec47719a96",
-      "download_count": 10,
+      "download_count": 18,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz.provenance.json"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 51027853,
       "digest": "sha256:037ea7a46d52e06b20363b4aa7cd7f28e32f31d8215803d6e9a0c96bac5818e3",
-      "download_count": 346,
+      "download_count": 973,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1354,
       "digest": "sha256:80e6e67f61345e1fb509889a62aa3c050dec3330858475c50b03c23b170f51e3",
-      "download_count": 12,
+      "download_count": 22,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz.provenance.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 47165783,
       "digest": "sha256:6f3c76ebe119826a2def1ae226c3573b214d396a3ed7c477ef282b1063345b87",
-      "download_count": 56,
+      "download_count": 134,
       "created_at": "2026-09-21T13:56:06Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 1354,
       "digest": "sha256:cab166161f7f802fcffa42ca11911575215c49747af62f9ae60ddfaf68c72766",
-      "download_count": 10,
+      "download_count": 20,
       "created_at": "2026-09-21T13:56:06Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz.provenance.json"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 10835732,
       "digest": "sha256:71d418dfb36c4593dab8c3bcaa8a500c338723fc5dd7f539a4fc6e3d85555cf9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-21T13:56:07Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_source.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 51681775,
       "digest": "sha256:5c5ffb98500169667f4c20e60c63d953bc5005ba25f5e0796d750217fafc44b6",
-      "download_count": 150,
+      "download_count": 349,
       "created_at": "2026-09-21T13:56:08Z",
       "updated_at": "2026-09-21T13:56:11Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 29546980,
       "digest": "sha256:a08f2a937119586f19586534ace31658baec8be775f8f56e4b86350d3448f690",
-      "download_count": 7,
+      "download_count": 16,
       "created_at": "2026-09-21T13:56:08Z",
       "updated_at": "2026-09-21T13:56:11Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_arm64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 40048248,
       "digest": "sha256:e39e51a01e1fd574de11439c19059b2aa6d5d5a842cd43347cd0e6acee4d14e0",
-      "download_count": 13,
+      "download_count": 34,
       "created_at": "2026-09-21T13:56:00Z",
       "updated_at": "2026-09-21T13:56:02Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64-setup.exe"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 63175386,
       "digest": "sha256:1fa27d51583e27782574e53839707efed5db93431ec3417a3f93a4e9ed7cc248",
-      "download_count": 13,
+      "download_count": 18,
       "created_at": "2026-09-21T13:56:01Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 5074,
       "digest": "sha256:83e253573ccb014c88f437264f934d69f022e42b315d4ef79df9463543567043",
-      "download_count": 707,
+      "download_count": 1823,
       "created_at": "2026-09-21T13:56:09Z",
       "updated_at": "2026-09-21T13:56:09Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/SHA256SUMS"
@@ -1767,5 +1767,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/kenn-io/agentsview/tarball/v0.44.0",
   "zipball_url": "https://api.github.com/repos/kenn-io/agentsview/zipball/v0.44.0",
-  "body": "## New features\n\n- Browse and correct project assignments in an opt-in project mapping workspace. Review folder suggestions and session previews, filter by date, and apply individual or bulk corrections.\n- Filter searches by project and date directly in the command palette. Switch to All Projects without changing the sidebar, or choose relative, calendar, or custom dates.\n- Open a session by ID or UUID with Ctrl/Cmd+G.\n- Push your archive to ClickHouse with `agentsview clickhouse push`, then serve the dashboard with `agentsview clickhouse serve`. Session edits remain in SQLite. ClickHouse does not support vector search or hosted raw sync.\n- Browse Cline CLI sessions with transcripts, token usage, costs, and remote sync. Continuation snapshots appear as one session. Cline VS Code extension sessions are not included.\n- Browse Charm Crush and Tencent CodeBuddy CN sessions with their recorded conversations and usage. Crush reports session totals without per-message token or cache breakdowns.\n- Track Augure Code separately from Codex and resume sessions through the Augure CLI. Proprietary Augure models remain unpriced.\n- Browse, search, and export Augure Desktop 3 beta sessions with usage and cost reporting. Remote sync is not supported for this agent.\n- Read DeepSeek Harness session formats through version 3, including compressed logs. AgentsView selects the newest supported generation and excludes inherited parent transcripts from child sessions.\n- Resume Pi sessions from AgentsView or copy a complete `pi --session` command.\n- Export new, edited, and deleted user and assistant messages with `export conversations`. Save progress to fetch subsequent changes, including messages from imported archives or sessions whose source files are gone. Only the latest message version is retained.\n- Find the earliest recorded activity and latest complete reporting hour with `export range`.\n- Generate and inspect Activity Insights from scripts with `agentsview insight generate`, `insight list`, and `insight get`.\n- Query archived usage without refreshing source files with `session usage --no-sync`.\n- Look up sessions by UUID through MCP `search_sessions`, including active sessions. MCP `search_content` also accepts `include_one_shot` and `include_automated` to include single-prompt runs and automated sessions.\n- Include transcript paths in session-list JSON with `session list --include-source`.\n- Inspect hosted raw sync through `GET /api/v1/raw-sync/status`, which reports source versions, parse-job counts, active devices, and upload backlog.\n- Choose Azerbaijani in language settings.\n- Hide AgentsView from the macOS Dock and Cmd-Tab when its window is closed using a new tray option. The setting is off by default and persists across relaunches. The app also adds a standard Window menu.\n\n## Improvements\n\n- Session Vitals, the session timing view, separates measured tool execution from time that cannot be assigned to a phase. Activity rows link to the corresponding transcript entries.\n- Export large session archives and multi-day digests with fewer repeated database reads.\n- Startup sync and usage-cache backfills use less background CPU.\n- Database upgrades show opening, schema, index, and migration progress before session syncing begins.\n- Session list, detail, sync, and search JSON include browser links when connected to a server. MCP session results preserve those links.\n- Session links give the provider and UUID separate URL segments, so replacing the UUID is easier. Existing encoded links still open.\n- JSON output from `session list --json` and `usage daily --json --breakdown` includes machine labels. The Activity machine filter keeps friendly labels visible and adds a short ID only when labels collide.\n- Failed pricing refreshes retry after about 1.5 hours, with increasing delays after further failures, instead of waiting a full day.\n- Profile `export sessions`, `export hour`, `export day`, and `export digest` with `--cpuprofile`, `--memprofile`, and `--trace`.\n\n## Bug fixes\n\n- Devin usage totals no longer discard messages from different sessions that share the same message number.\n- StepFun `step-5-preview` sessions receive cost estimates, including in existing archives without a resync.\n- Codex prompts no longer mix user text with injected context. Existing archives refresh affected text, previews, and message counts during startup resync when source files remain available.\n- Session previews skip complete leading injected-context blocks. WorkBuddy sessions also use their generated titles when present.\n- Every `codex exec` session is classified as automated. Roborev-tagged sessions are identified as automated code reviews.\n- Grok child sessions appear beneath their spawning parent and count as subagent activity. Native Pi branches regain parent links when the parent session can be resolved.\n- Older Piebald and Kilo databases import despite missing columns that previously caused discovery or parsing failures.\n- Cursor IDE imports accept structured tool results, including object-valued `todo_write` results.\n- VS Code Copilot assistant messages retain the model used for each request, including model changes within a session.\n- Healthy archived sessions continue copying to PostgreSQL and DuckDB when daemon-managed incremental pushes encounter a local ingestion failure.\n- Sync avoids repeatedly parsing unchanged malformed or missing source files where failure caching applies. Unrelated file events no longer bypass retry delays, and temporary lock-file changes no longer trigger session syncing.\n- Configuration loading rejects unknown keys under `[vector]`, including misspelled or misplaced settings. Correct or remove these keys after upgrading, even if vector search is disabled.\n- An explicit nonzero `--port` fails when occupied instead of silently choosing another port. Updates preserve the explicit port choice.\n- PostgreSQL and DuckDB servers mounted under `--base-path` are discoverable, and API requests retain the path prefix.\n- Version-mismatch errors identify whether to restart the daemon or upgrade and restart a stale command or background service.\n- Clicking the macOS Dock icon or activating AgentsView through Cmd-Tab restores a hidden main window.\n- Copying a session's directory path works after the directory has been deleted.\n- Quality-page excerpts preserve complete Unicode characters when shortened.\n- Activity concurrency tooltips clear when the date changes or the report refreshes.\n- The Analysis panel header stays on one line."
+  "body": "## New features\n\n- Browse and correct project assignments in an opt-in project mapping workspace. Review folder suggestions and session previews, filter by date, and apply individual or bulk corrections.\n- Filter searches by project and date directly in the command palette. Switch to All Projects without changing the sidebar, or choose relative, calendar, or custom dates.\n- Open a session by ID or UUID with Ctrl/Cmd+G.\n- Push your archive to ClickHouse with `agentsview clickhouse push`, then serve the dashboard with `agentsview clickhouse serve`. Session edits remain in SQLite. ClickHouse does not support vector search or hosted raw sync.\n- Browse Cline CLI sessions with transcripts, token usage, costs, and remote sync. Continuation snapshots appear as one session. Cline VS Code extension sessions are not included.\n- Browse Charm Crush and Tencent CodeBuddy CN sessions with their recorded conversations and usage. Crush reports session totals without per-message token or cache breakdowns.\n- Track Augure Code separately from Codex and resume sessions through the Augure CLI. Proprietary Augure models remain unpriced.\n- Browse, search, and export Augure Desktop 3 beta sessions with usage and cost reporting. Remote sync is not supported for this agent.\n- Read DeepSeek Harness session formats through version 3, including compressed logs. AgentsView selects the newest supported generation and excludes inherited parent transcripts from child sessions.\n- Resume Pi sessions from AgentsView or copy a complete `pi --session` command.\n- Export new, edited, and deleted user and assistant messages with `export conversations`. Save progress to fetch subsequent changes, including messages from imported archives or sessions whose source files are gone. Only the latest message version is retained.\n- Find the earliest recorded activity and latest complete reporting hour with `export range`.\n- Generate and inspect Activity Insights from scripts with `agentsview insight generate`, `insight list`, and `insight get`.\n- Query archived usage without refreshing source files with `session usage --no-sync`.\n- Look up sessions by UUID through MCP `search_sessions`, including active sessions. MCP `search_content` also accepts `include_one_shot` and `include_automated` to include single-prompt runs and automated sessions.\n- Include transcript paths in session-list JSON with `session list --include-source`.\n- Inspect hosted raw sync through `GET /api/v1/raw-sync/status`, which reports source versions, parse-job counts, active devices, and upload backlog.\n- Choose Azerbaijani in language settings.\n- Hide AgentsView from the macOS Dock and Cmd-Tab when its window is closed using a new tray option. The setting is off by default and persists across relaunches. The app also adds a standard Window menu.\n\n## Improvements\n\n- Session Vitals, the session timing view, separates measured tool execution from time that cannot be assigned to a phase. Activity rows link to the corresponding transcript entries.\n- Export large session archives and multi-day digests with fewer repeated database reads.\n- Startup sync and usage-cache backfills use less background CPU.\n- Database upgrades show opening, schema, index, and migration progress before session syncing begins.\n- Session list, detail, sync, and search JSON include browser links when connected to a server. MCP session results preserve those links.\n- Session links give the provider and UUID separate URL segments, so replacing the UUID is easier. Existing encoded links still open.\n- JSON output from `session list --json` and `usage daily --json --breakdown` includes machine labels. The Activity machine filter keeps friendly labels visible and adds a short ID only when labels collide.\n- Failed pricing refreshes retry after about 1.5 hours, with increasing delays after further failures, instead of waiting a full day.\n- Profile `export sessions`, `export hour`, `export day`, and `export digest` with `--cpuprofile`, `--memprofile`, and `--trace`.\n\n## Bug fixes\n\n- Devin usage totals no longer discard messages from different sessions that share the same message number.\n- StepFun `step-5-preview` sessions receive cost estimates, including in existing archives without a resync.\n- Codex prompts no longer mix user text with injected context. Existing archives refresh affected text, previews, and message counts during startup resync when source files remain available.\n- Session previews skip complete leading injected-context blocks. WorkBuddy sessions also use their generated titles when present.\n- Every `codex exec` session is classified as automated. Roborev-tagged sessions are identified as automated code reviews.\n- Grok child sessions appear beneath their spawning parent and count as subagent activity. Native Pi branches regain parent links when the parent session can be resolved.\n- Older Piebald and Kilo databases import despite missing columns that previously caused discovery or parsing failures.\n- Cursor IDE imports accept structured tool results, including object-valued `todo_write` results.\n- VS Code Copilot assistant messages retain the model used for each request, including model changes within a session.\n- Healthy archived sessions continue copying to PostgreSQL and DuckDB when daemon-managed incremental pushes encounter a local ingestion failure.\n- Sync avoids repeatedly parsing unchanged malformed or missing source files where failure caching applies. Unrelated file events no longer bypass retry delays, and temporary lock-file changes no longer trigger session syncing.\n- Configuration loading rejects unknown keys under `[vector]`, including misspelled or misplaced settings. Correct or remove these keys after upgrading, even if vector search is disabled.\n- An explicit nonzero `--port` fails when occupied instead of silently choosing another port. Updates preserve the explicit port choice.\n- PostgreSQL and DuckDB servers mounted under `--base-path` are discoverable, and API requests retain the path prefix.\n- Version-mismatch errors identify whether to restart the daemon or upgrade and restart a stale command or background service.\n- Clicking the macOS Dock icon or activating AgentsView through Cmd-Tab restores a hidden main window.\n- Copying a session's directory path works after the directory has been deleted.\n- Quality-page excerpts preserve complete Unicode characters when shortened.\n- Activity concurrency tooltips clear when the date changes or the report refreshes.\n- The Analysis panel header stays on one line.",
+  "reactions": {
+    "url": "https://api.github.com/repos/kenn-io/agentsview/releases/392956318/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
