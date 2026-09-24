@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 46272512,
       "digest": "sha256:54683525e91e3d8f7f44c849b3da8a3f6d8fdcaeb521a8019b973f3cf996944b",
-      "download_count": 29,
+      "download_count": 45,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:59Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1358,
       "digest": "sha256:96207cceb266f81727c51b28dc9f5ea867db65af45791576ca9314ec494db6f6",
-      "download_count": 16,
+      "download_count": 24,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:57Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi.provenance.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1107,
       "digest": "sha256:174ef5acf7abc871b09e2da74f64605c50d9baf449bdb636cc92564fac73f157",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:57Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi.spdx.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 27385856,
       "digest": "sha256:a0b9ac6ff4d71eaab308f4f5a5c4aa9527183f1a9010e8c9ef3e451ec827596a",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1358,
       "digest": "sha256:3d6703a9152e555a998cdad82ff3ee9f5dd5e7c359d30474f46222701d63e45d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:57Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi.provenance.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1107,
       "digest": "sha256:bdec772dc0b8f1cea740948a9967b47d3411c5d2871e067045ee5bc2d0cac57c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi.spdx.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 137329160,
       "digest": "sha256:10ee4253ce6540cd802c980cfb32ed991c7eacbbae99d87b334633ff6d227db9",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:56:04Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1359,
       "digest": "sha256:007e6cd9b16aed72b7c02bdb7e0906543f7f464477e879bcd12023b0b3e32035",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:55:57Z",
       "updated_at": "2026-09-21T13:55:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage.provenance.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1432,
       "digest": "sha256:2282a1196e108b7fe2d144d2899bc9e01316239311606a2a93a4901c4fb9c822",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:55:58Z",
       "updated_at": "2026-09-21T13:55:58Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage.spdx.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 56751798,
       "digest": "sha256:08b0190a7a4c2f5834e4f95c0c1874097cacbf602032162676bc22ceab145627",
-      "download_count": 1313,
+      "download_count": 1832,
       "created_at": "2026-09-21T13:55:58Z",
       "updated_at": "2026-09-21T13:56:01Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 142440952,
       "digest": "sha256:502f3a6a7ee6d2dc767cf0e66bca0f3a94a556fe1a19c645332e4e407b5e63b2",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-09-21T13:55:59Z",
       "updated_at": "2026-09-21T13:56:09Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_amd64.AppImage"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 48251333,
       "digest": "sha256:95df0f56c039c394601d755301bbf523e56e0a8d2a648287b80cc203897f3fc2",
-      "download_count": 51,
+      "download_count": 82,
       "created_at": "2026-09-21T13:56:03Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 1357,
       "digest": "sha256:e1dd5f93207fde99c1215806e0e7c64217faf4902993c7c1b32f3f7a6c86e412",
-      "download_count": 17,
+      "download_count": 25,
       "created_at": "2026-09-21T13:56:04Z",
       "updated_at": "2026-09-21T13:56:04Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz.provenance.json"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 43745351,
       "digest": "sha256:b21fdf093e631237e39d33ab80fe50fbc799e0bac11ac8ede8e0dc988ae12303",
-      "download_count": 680,
+      "download_count": 1061,
       "created_at": "2026-09-21T13:56:04Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 1357,
       "digest": "sha256:cfab578bf0a6539ddd4a9698e7c00da204d596c1f78149856b635dec47719a96",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz.provenance.json"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 51027853,
       "digest": "sha256:037ea7a46d52e06b20363b4aa7cd7f28e32f31d8215803d6e9a0c96bac5818e3",
-      "download_count": 973,
+      "download_count": 1649,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 1354,
       "digest": "sha256:80e6e67f61345e1fb509889a62aa3c050dec3330858475c50b03c23b170f51e3",
-      "download_count": 22,
+      "download_count": 32,
       "created_at": "2026-09-21T13:56:05Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz.provenance.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 47165783,
       "digest": "sha256:6f3c76ebe119826a2def1ae226c3573b214d396a3ed7c477ef282b1063345b87",
-      "download_count": 134,
+      "download_count": 186,
       "created_at": "2026-09-21T13:56:06Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 1354,
       "digest": "sha256:cab166161f7f802fcffa42ca11911575215c49747af62f9ae60ddfaf68c72766",
-      "download_count": 20,
+      "download_count": 32,
       "created_at": "2026-09-21T13:56:06Z",
       "updated_at": "2026-09-21T13:56:06Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz.provenance.json"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 51681775,
       "digest": "sha256:5c5ffb98500169667f4c20e60c63d953bc5005ba25f5e0796d750217fafc44b6",
-      "download_count": 349,
+      "download_count": 539,
       "created_at": "2026-09-21T13:56:08Z",
       "updated_at": "2026-09-21T13:56:11Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 1354,
       "digest": "sha256:42a44a81b93400907fd05e82d100e8a6463bc45d2b2317b3ab47ee013e1f58b9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-21T13:56:08Z",
       "updated_at": "2026-09-21T13:56:08Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip.provenance.json"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 29546980,
       "digest": "sha256:a08f2a937119586f19586534ace31658baec8be775f8f56e4b86350d3448f690",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-21T13:56:08Z",
       "updated_at": "2026-09-21T13:56:11Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_arm64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 40048248,
       "digest": "sha256:e39e51a01e1fd574de11439c19059b2aa6d5d5a842cd43347cd0e6acee4d14e0",
-      "download_count": 34,
+      "download_count": 48,
       "created_at": "2026-09-21T13:56:00Z",
       "updated_at": "2026-09-21T13:56:02Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64-setup.exe"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 63175386,
       "digest": "sha256:1fa27d51583e27782574e53839707efed5db93431ec3417a3f93a4e9ed7cc248",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-09-21T13:56:01Z",
       "updated_at": "2026-09-21T13:56:05Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 5074,
       "digest": "sha256:83e253573ccb014c88f437264f934d69f022e42b315d4ef79df9463543567043",
-      "download_count": 1823,
+      "download_count": 2839,
       "created_at": "2026-09-21T13:56:09Z",
       "updated_at": "2026-09-21T13:56:09Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/SHA256SUMS"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:8dadb063de94a75a4f44df09a3e98243c64127e8f352ed3784d75d7155efae21",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-21T13:56:09Z",
       "updated_at": "2026-09-21T13:56:10Z",
       "browser_download_url": "https://github.com/kenn-io/agentsview/releases/download/v0.44.0/SHA256SUMS.sig"
