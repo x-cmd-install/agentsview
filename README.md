@@ -14,12 +14,12 @@ x install agentsview
 
 ## Code insight
 
-Total: **1,113,735** lines of code across **3503** files in the top 5 languages.
+Total: **1,115,389** lines of code across **3512** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 936,754 | 67,660 | 82,610 | 2371 |
-| TypeScript | 90,906 | 7,094 | 11,431 | 908 |
+| Go | 937,610 | 67,630 | 82,637 | 2378 |
+| TypeScript | 91,664 | 7,101 | 11,448 | 910 |
 | Json | 34,381 | 0 | 0 | 98 |
 | Yaml | 24,136 | 7 | 3 | 5 |
 | Svelte | 12,055 | 97 | 577 | 121 |
@@ -32,81 +32,81 @@ Total: **1,113,735** lines of code across **3503** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.44.0` (2026-09-21)
+- **Latest**: `v0.45.0` (2026-10-09)
 - **Last commit**: 2026-10-09
 - **Assets in release**: 48
 
 ## Popularity
 
-- **Stars**: 6,081 · **Forks**: 684 · **Open issues**: 529 · **Contributors**: 169
+- **Stars**: 6,091 · **Forks**: 686 · **Open issues**: 531 · **Contributors**: 170
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1321 · **Open PRs**: 47 · **Closed issues**: 426 · **Open issues**: 103 · **Commits**: 1521
+- **Releases**: 81 · **Merged PRs**: 1329 · **Open PRs**: 49 · **Closed issues**: 427 · **Open issues**: 104 · **Commits**: 1529
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 2 | 293 | 45 | 67 | 34 | 290 |
-| last60d | 2026-08-10 | 5 | 497 | 46 | 132 | 54 | 501 |
-| 90d | 2026-07-11 | 10 | 677 | 46 | 188 | 63 | 662 |
-| last180d | 2026-04-12 | 50 | 1169 | 47 | 335 | 97 | 1161 |
-| 360d | 2025-10-14 | 80 | 1321 | 47 | 426 | 103 | 1518 |
-| last720d | 2024-10-19 | 80 | 1321 | 47 | 426 | 103 | 1521 |
+| 30d | 2026-09-10 | 3 | 284 | 47 | 64 | 35 | 298 |
+| last60d | 2026-08-11 | 6 | 505 | 47 | 133 | 54 | 509 |
+| 90d | 2026-07-12 | 11 | 674 | 48 | 187 | 64 | 670 |
+| last180d | 2026-04-13 | 50 | 1171 | 49 | 333 | 98 | 1169 |
+| 360d | 2025-10-15 | 81 | 1329 | 49 | 427 | 104 | 1526 |
+| last720d | 2024-10-20 | 81 | 1329 | 49 | 427 | 104 | 1529 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [AgentsView-0.44.0-windows-amd64.msi](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi) | 44.1 MiB | `native/win/x64` |
-| [AgentsView-0.44.0-windows-amd64.msi.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi.provenance.json) | 1.3 KiB | `native/win/x64` |
-| [AgentsView-0.44.0-windows-amd64.msi.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-amd64.msi.spdx.json) | 1.1 KiB | `native/win/x64` |
-| [AgentsView-0.44.0-windows-arm64.msi](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi) | 26.1 MiB | `native/win/arm64` |
-| [AgentsView-0.44.0-windows-arm64.msi.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi.provenance.json) | 1.3 KiB | `native/win/arm64` |
-| [AgentsView-0.44.0-windows-arm64.msi.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView-0.44.0-windows-arm64.msi.spdx.json) | 1.1 KiB | `native/win/arm64` |
-| [AgentsView_0.44.0_aarch64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage) | 131.0 MiB | `other` |
-| [AgentsView_0.44.0_aarch64.AppImage.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage.provenance.json) | 1.3 KiB | `other` |
-| [AgentsView_0.44.0_aarch64.AppImage.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.AppImage.spdx.json) | 1.4 KiB | `other` |
-| [AgentsView_0.44.0_aarch64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg) | 54.1 MiB | `other` |
-| [AgentsView_0.44.0_aarch64.dmg.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg.macos-notarization.json) | 631 B | `native/darwin/arm64` |
-| [AgentsView_0.44.0_aarch64.dmg.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg.provenance.json) | 1.3 KiB | `other` |
-| [AgentsView_0.44.0_aarch64.dmg.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_aarch64.dmg.spdx.json) | 1.1 KiB | `other` |
-| [AgentsView_0.44.0_amd64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_amd64.AppImage) | 135.8 MiB | `other` |
-| [AgentsView_0.44.0_amd64.AppImage.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_amd64.AppImage.provenance.json) | 1.3 KiB | `other` |
-| [AgentsView_0.44.0_amd64.AppImage.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_amd64.AppImage.spdx.json) | 1.4 KiB | `other` |
-| [agentsview_0.44.0_darwin_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz) | 46.0 MiB | `native/darwin/x64` |
-| [agentsview_0.44.0_darwin_amd64.tar.gz.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz.macos-notarization.json) | 581 B | `native/darwin/x64` |
-| [agentsview_0.44.0_darwin_amd64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/x64` |
-| [agentsview_0.44.0_darwin_amd64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_amd64.tar.gz.spdx.json) | 225.2 KiB | `native/darwin/x64` |
-| [agentsview_0.44.0_darwin_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz) | 41.7 MiB | `native/darwin/arm64` |
-| [agentsview_0.44.0_darwin_arm64.tar.gz.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz.macos-notarization.json) | 581 B | `native/darwin/arm64` |
-| [agentsview_0.44.0_darwin_arm64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/arm64` |
-| [agentsview_0.44.0_darwin_arm64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_darwin_arm64.tar.gz.spdx.json) | 225.2 KiB | `native/darwin/arm64` |
-| [agentsview_0.44.0_linux_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz) | 48.7 MiB | `native/linux/x64` |
-| [agentsview_0.44.0_linux_amd64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/x64` |
-| [agentsview_0.44.0_linux_amd64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_amd64.tar.gz.spdx.json) | 226.5 KiB | `native/linux/x64` |
-| [agentsview_0.44.0_linux_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz) | 45.0 MiB | `native/linux/arm64` |
-| [agentsview_0.44.0_linux_arm64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/arm64` |
-| [agentsview_0.44.0_linux_arm64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_linux_arm64.tar.gz.spdx.json) | 226.5 KiB | `native/linux/arm64` |
-| [agentsview_0.44.0_source.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_source.tar.gz) | 10.3 MiB | `native/unknown` |
-| [agentsview_0.44.0_source.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_source.tar.gz.provenance.json) | 1.3 KiB | `other` |
-| [agentsview_0.44.0_source.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_source.tar.gz.spdx.json) | 2.0 MiB | `other` |
-| [agentsview_0.44.0_windows_amd64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip) | 49.3 MiB | `native/win/x64` |
-| [agentsview_0.44.0_windows_amd64.zip.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip.provenance.json) | 1.3 KiB | `native/win/x64` |
-| [agentsview_0.44.0_windows_amd64.zip.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_amd64.zip.spdx.json) | 237.1 KiB | `native/win/x64` |
-| [agentsview_0.44.0_windows_arm64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_arm64.zip) | 28.2 MiB | `native/win/arm64` |
-| [agentsview_0.44.0_windows_arm64.zip.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_arm64.zip.provenance.json) | 1.3 KiB | `native/win/arm64` |
-| [agentsview_0.44.0_windows_arm64.zip.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/agentsview_0.44.0_windows_arm64.zip.spdx.json) | 230.2 KiB | `native/win/arm64` |
-| [AgentsView_0.44.0_x64-setup.exe](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64-setup.exe) | 38.2 MiB | `other` |
-| [AgentsView_0.44.0_x64-setup.exe.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64-setup.exe.provenance.json) | 1.3 KiB | `other` |
-| [AgentsView_0.44.0_x64-setup.exe.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64-setup.exe.spdx.json) | 2.5 KiB | `other` |
-| [AgentsView_0.44.0_x64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg) | 60.2 MiB | `other` |
-| [AgentsView_0.44.0_x64.dmg.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg.macos-notarization.json) | 631 B | `native/darwin/x64` |
-| [AgentsView_0.44.0_x64.dmg.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg.provenance.json) | 1.3 KiB | `other` |
-| [AgentsView_0.44.0_x64.dmg.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/AgentsView_0.44.0_x64.dmg.spdx.json) | 1.0 KiB | `other` |
-| [SHA256SUMS](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/SHA256SUMS) | 5.0 KiB | `other` |
-| [SHA256SUMS.sig](https://github.com/kenn-io/agentsview/releases/download/v0.44.0/SHA256SUMS.sig) | 96 B | `other` |
+| [AgentsView-0.45.0-windows-amd64.msi](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-amd64.msi) | 43.4 MiB | `native/win/x64` |
+| [AgentsView-0.45.0-windows-amd64.msi.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-amd64.msi.provenance.json) | 1.3 KiB | `native/win/x64` |
+| [AgentsView-0.45.0-windows-amd64.msi.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-amd64.msi.spdx.json) | 1.1 KiB | `native/win/x64` |
+| [AgentsView-0.45.0-windows-arm64.msi](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-arm64.msi) | 25.5 MiB | `native/win/arm64` |
+| [AgentsView-0.45.0-windows-arm64.msi.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-arm64.msi.provenance.json) | 1.3 KiB | `native/win/arm64` |
+| [AgentsView-0.45.0-windows-arm64.msi.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView-0.45.0-windows-arm64.msi.spdx.json) | 1.1 KiB | `native/win/arm64` |
+| [AgentsView_0.45.0_aarch64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.AppImage) | 130.2 MiB | `other` |
+| [AgentsView_0.45.0_aarch64.AppImage.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.AppImage.provenance.json) | 1.3 KiB | `other` |
+| [AgentsView_0.45.0_aarch64.AppImage.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.AppImage.spdx.json) | 1.4 KiB | `other` |
+| [AgentsView_0.45.0_aarch64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.dmg) | 53.2 MiB | `other` |
+| [AgentsView_0.45.0_aarch64.dmg.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.dmg.macos-notarization.json) | 631 B | `native/darwin/arm64` |
+| [AgentsView_0.45.0_aarch64.dmg.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.dmg.provenance.json) | 1.3 KiB | `other` |
+| [AgentsView_0.45.0_aarch64.dmg.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_aarch64.dmg.spdx.json) | 1.1 KiB | `other` |
+| [AgentsView_0.45.0_amd64.AppImage](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_amd64.AppImage) | 134.9 MiB | `other` |
+| [AgentsView_0.45.0_amd64.AppImage.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_amd64.AppImage.provenance.json) | 1.3 KiB | `other` |
+| [AgentsView_0.45.0_amd64.AppImage.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_amd64.AppImage.spdx.json) | 1.4 KiB | `other` |
+| [agentsview_0.45.0_darwin_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_amd64.tar.gz) | 45.1 MiB | `native/darwin/x64` |
+| [agentsview_0.45.0_darwin_amd64.tar.gz.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_amd64.tar.gz.macos-notarization.json) | 581 B | `native/darwin/x64` |
+| [agentsview_0.45.0_darwin_amd64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/x64` |
+| [agentsview_0.45.0_darwin_amd64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_amd64.tar.gz.spdx.json) | 163.7 KiB | `native/darwin/x64` |
+| [agentsview_0.45.0_darwin_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_arm64.tar.gz) | 40.9 MiB | `native/darwin/arm64` |
+| [agentsview_0.45.0_darwin_arm64.tar.gz.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_arm64.tar.gz.macos-notarization.json) | 581 B | `native/darwin/arm64` |
+| [agentsview_0.45.0_darwin_arm64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/darwin/arm64` |
+| [agentsview_0.45.0_darwin_arm64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_darwin_arm64.tar.gz.spdx.json) | 163.7 KiB | `native/darwin/arm64` |
+| [agentsview_0.45.0_linux_amd64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_amd64.tar.gz) | 47.7 MiB | `native/linux/x64` |
+| [agentsview_0.45.0_linux_amd64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_amd64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/x64` |
+| [agentsview_0.45.0_linux_amd64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_amd64.tar.gz.spdx.json) | 163.6 KiB | `native/linux/x64` |
+| [agentsview_0.45.0_linux_arm64.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_arm64.tar.gz) | 44.1 MiB | `native/linux/arm64` |
+| [agentsview_0.45.0_linux_arm64.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_arm64.tar.gz.provenance.json) | 1.3 KiB | `native/linux/arm64` |
+| [agentsview_0.45.0_linux_arm64.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_linux_arm64.tar.gz.spdx.json) | 163.6 KiB | `native/linux/arm64` |
+| [agentsview_0.45.0_source.tar.gz](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_source.tar.gz) | 11.2 MiB | `native/unknown` |
+| [agentsview_0.45.0_source.tar.gz.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_source.tar.gz.provenance.json) | 1.3 KiB | `other` |
+| [agentsview_0.45.0_source.tar.gz.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_source.tar.gz.spdx.json) | 2.1 MiB | `other` |
+| [agentsview_0.45.0_windows_amd64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_amd64.zip) | 48.3 MiB | `native/win/x64` |
+| [agentsview_0.45.0_windows_amd64.zip.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_amd64.zip.provenance.json) | 1.3 KiB | `native/win/x64` |
+| [agentsview_0.45.0_windows_amd64.zip.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_amd64.zip.spdx.json) | 175.3 KiB | `native/win/x64` |
+| [agentsview_0.45.0_windows_arm64.zip](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_arm64.zip) | 27.3 MiB | `native/win/arm64` |
+| [agentsview_0.45.0_windows_arm64.zip.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_arm64.zip.provenance.json) | 1.3 KiB | `native/win/arm64` |
+| [agentsview_0.45.0_windows_arm64.zip.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/agentsview_0.45.0_windows_arm64.zip.spdx.json) | 168.5 KiB | `native/win/arm64` |
+| [AgentsView_0.45.0_x64-setup.exe](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64-setup.exe) | 37.6 MiB | `other` |
+| [AgentsView_0.45.0_x64-setup.exe.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64-setup.exe.provenance.json) | 1.3 KiB | `other` |
+| [AgentsView_0.45.0_x64-setup.exe.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64-setup.exe.spdx.json) | 2.5 KiB | `other` |
+| [AgentsView_0.45.0_x64.dmg](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64.dmg) | 59.3 MiB | `other` |
+| [AgentsView_0.45.0_x64.dmg.macos-notarization.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64.dmg.macos-notarization.json) | 631 B | `native/darwin/x64` |
+| [AgentsView_0.45.0_x64.dmg.provenance.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64.dmg.provenance.json) | 1.3 KiB | `other` |
+| [AgentsView_0.45.0_x64.dmg.spdx.json](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/AgentsView_0.45.0_x64.dmg.spdx.json) | 1.0 KiB | `other` |
+| [SHA256SUMS](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/SHA256SUMS) | 5.0 KiB | `other` |
+| [SHA256SUMS.sig](https://github.com/kenn-io/agentsview/releases/download/v0.45.0/SHA256SUMS.sig) | 96 B | `other` |
 
 ## Improve this data
 
@@ -117,4 +117,4 @@ Install metadata for agentsview lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:03:23Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:42:30Z._
