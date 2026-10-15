@@ -14,14 +14,14 @@ x install agentsview
 
 ## Code insight
 
-Total: **1,162,647** lines of code across **3706** files in the top 5 languages.
+Total: **1,168,607** lines of code across **3741** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 974,003 | 68,928 | 84,658 | 2534 |
-| TypeScript | 97,194 | 7,307 | 11,790 | 938 |
-| Json | 37,858 | 0 | 0 | 105 |
-| Yaml | 24,934 | 7 | 3 | 5 |
+| Go | 979,212 | 69,077 | 85,031 | 2562 |
+| TypeScript | 97,926 | 7,311 | 11,829 | 940 |
+| Json | 37,863 | 0 | 0 | 110 |
+| Yaml | 24,937 | 7 | 3 | 5 |
 | Svelte | 12,554 | 98 | 591 | 124 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **1,162,647** lines of code across **3706** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.45.0` (2026-10-09)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 48
 
 ## Popularity
 
-- **Stars**: 6,098 · **Forks**: 692 · **Open issues**: 539 · **Contributors**: 170
+- **Stars**: 6,114 · **Forks**: 695 · **Open issues**: 543 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1377 · **Open PRs**: 58 · **Closed issues**: 433 · **Open issues**: 106 · **Commits**: 1577
+- **Releases**: 81 · **Merged PRs**: 1399 · **Open PRs**: 54 · **Closed issues**: 437 · **Open issues**: 106 · **Commits**: 1599
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 3 | 292 | 55 | 64 | 32 | 268 |
-| last60d | 2026-08-15 | 6 | 526 | 56 | 134 | 53 | 510 |
-| 90d | 2026-07-16 | 9 | 691 | 57 | 184 | 65 | 675 |
-| last180d | 2026-04-17 | 46 | 1207 | 58 | 332 | 97 | 1193 |
-| 360d | 2025-10-19 | 81 | 1377 | 58 | 433 | 106 | 1574 |
-| last720d | 2024-10-24 | 81 | 1377 | 58 | 433 | 106 | 1577 |
+| 30d | 2026-09-15 | 2 | 302 | 51 | 64 | 32 | 290 |
+| last60d | 2026-08-16 | 6 | 533 | 52 | 138 | 52 | 532 |
+| 90d | 2026-07-17 | 9 | 701 | 53 | 187 | 65 | 697 |
+| last180d | 2026-04-18 | 46 | 1226 | 54 | 336 | 97 | 1215 |
+| 360d | 2025-10-20 | 81 | 1399 | 54 | 437 | 106 | 1596 |
+| last720d | 2024-10-25 | 81 | 1399 | 54 | 437 | 106 | 1599 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for agentsview lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:45:10Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:33:21Z._
