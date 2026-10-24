@@ -13,16 +13,16 @@
 - repo: homebrew_casks
   srcname: agentsview
   visiblename: AgentsView
-  version: 0.45.0
+  version: 0.46.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Browse, search and analyse your past AI coding sessions
 - repo: scoop
   subrepo: main
   binname: agentsview
   visiblename: agentsview
-  version: 0.45.0
+  version: 0.46.1
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - MIT
